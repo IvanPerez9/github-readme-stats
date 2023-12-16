@@ -1,4 +1,5 @@
 Link to Vercel deployment : https://vercel.com/ivanperez9/github-readme-stats
+Change PAT: https://vercel.com/ivanperez9/github-readme-stats/settings/environment-variables
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
